@@ -1,0 +1,6 @@
+NotesTest.class
+SettingsTest.class
+DashboardTest.class
+com\skillsync\LoginPageTest.class
+com\skillsync\LoginValidationTest.class
+com\skillsync\SignupPageTest.class

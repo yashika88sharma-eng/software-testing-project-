@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="37" passed="36" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-03T15:55:47 IST" name="Surefire suite" finished-at="2026-11-03T15:59:04 IST" duration-ms="196899">
+    <groups>
+    </groups>
+    <test started-at="2026-11-03T15:55:47 IST" name="Surefire test" finished-at="2026-11-03T15:59:04 IST" duration-ms="196899">
+      <class name="SettingsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SettingsTest@636be97c]" started-at="2026-11-03T15:58:44 IST" name="setUp" finished-at="2026-11-03T15:58:48 IST" duration-ms="4886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAccountStatsVisible()[pri:0, instance:SettingsTest@636be97c]" started-at="2026-11-03T15:58:48 IST" name="verifyAccountStatsVisible" finished-at="2026-11-03T15:58:49 IST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAccountStatsVisible -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SettingsTest@636be97c]" started-at="2026-11-03T15:58:49 IST" name="tearDown" finished-at="2026-11-03T15:58:49 IST" duration-ms="374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SettingsTest@636be97c]" started-at="2026-11-03T15:58:49 IST" name="setUp" finished-at="2026-11-03T15:58:54 IST" duration-ms="5080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyNotificationOptionsVisible()[pri:0, instance:SettingsTest@636be97c]" started-at="2026-11-03T15:58:54 IST" name="verifyNotificationOptionsVisible" finished-at="2026-11-03T15:58:54 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNotificationOptionsVisible -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SettingsTest@636be97c]" started-at="2026-11-03T15:58:54 IST" name="tearDown" finished-at="2026-11-03T15:58:54 IST" duration-ms="335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SettingsTest@636be97c]" started-at="2026-11-03T15:58:54 IST" name="setUp" finished-at="2026-11-03T15:58:59 IST" duration-ms="4440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyProfileFieldsVisible()[pri:0, instance:SettingsTest@636be97c]" started-at="2026-11-03T15:58:59 IST" name="verifyProfileFieldsVisible" finished-at="2026-11-03T15:58:59 IST" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProfileFieldsVisible -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SettingsTest@636be97c]" started-at="2026-11-03T15:58:59 IST" name="tearDown" finished-at="2026-11-03T15:58:59 IST" duration-ms="328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SettingsTest@636be97c]" started-at="2026-11-03T15:58:59 IST" name="setUp" finished-at="2026-11-03T15:59:04 IST" duration-ms="4707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySettingsPageLoads()[pri:0, instance:SettingsTest@636be97c]" started-at="2026-11-03T15:59:04 IST" name="verifySettingsPageLoads" finished-at="2026-11-03T15:59:04 IST" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySettingsPageLoads -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SettingsTest@636be97c]" started-at="2026-11-03T15:59:04 IST" name="tearDown" finished-at="2026-11-03T15:59:04 IST" duration-ms="338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SettingsTest -->
+      <class name="DashboardTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:DashboardTest@5e82df6a]" started-at="2026-11-03T15:57:27 IST" name="setUp" finished-at="2026-11-03T15:57:33 IST" duration-ms="5698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyDashboardLoads()[pri:0, instance:DashboardTest@5e82df6a]" started-at="2026-11-03T15:57:33 IST" name="verifyDashboardLoads" finished-at="2026-11-03T15:57:33 IST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDashboardLoads -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:DashboardTest@5e82df6a]" started-at="2026-11-03T15:57:33 IST" name="tearDown" finished-at="2026-11-03T15:57:33 IST" duration-ms="413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:DashboardTest@5e82df6a]" started-at="2026-11-03T15:57:33 IST" name="setUp" finished-at="2026-11-03T15:57:37 IST" duration-ms="4328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyGenerateRoadmapButton()[pri:0, instance:DashboardTest@5e82df6a]" started-at="2026-11-03T15:57:37 IST" name="verifyGenerateRoadmapButton" finished-at="2026-11-03T15:57:38 IST" duration-ms="679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGenerateRoadmapButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:DashboardTest@5e82df6a]" started-at="2026-11-03T15:57:38 IST" name="tearDown" finished-at="2026-11-03T15:57:38 IST" duration-ms="322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:DashboardTest@5e82df6a]" started-at="2026-11-03T15:57:38 IST" name="setUp" finished-at="2026-11-03T15:57:43 IST" duration-ms="5019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyProgressSectionVisible()[pri:0, instance:DashboardTest@5e82df6a]" started-at="2026-11-03T15:57:43 IST" name="verifyProgressSectionVisible" finished-at="2026-11-03T15:57:43 IST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProgressSectionVisible -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:DashboardTest@5e82df6a]" started-at="2026-11-03T15:57:43 IST" name="tearDown" finished-at="2026-11-03T15:57:44 IST" duration-ms="360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:DashboardTest@5e82df6a]" started-at="2026-11-03T15:57:44 IST" name="setUp" finished-at="2026-11-03T15:57:49 IST" duration-ms="4951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyRoadmapSectionVisible()[pri:0, instance:DashboardTest@5e82df6a]" started-at="2026-11-03T15:57:49 IST" name="verifyRoadmapSectionVisible" finished-at="2026-11-03T15:57:49 IST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRoadmapSectionVisible -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:DashboardTest@5e82df6a]" started-at="2026-11-03T15:57:49 IST" name="tearDown" finished-at="2026-11-03T15:57:49 IST" duration-ms="327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:DashboardTest@5e82df6a]" started-at="2026-11-03T15:57:49 IST" name="setUp" finished-at="2026-11-03T15:57:55 IST" duration-ms="5491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyStatsCardsVisible()[pri:0, instance:DashboardTest@5e82df6a]" started-at="2026-11-03T15:57:55 IST" name="verifyStatsCardsVisible" finished-at="2026-11-03T15:57:55 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyStatsCardsVisible -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:DashboardTest@5e82df6a]" started-at="2026-11-03T15:57:55 IST" name="tearDown" finished-at="2026-11-03T15:57:55 IST" duration-ms="446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:DashboardTest@5e82df6a]" started-at="2026-11-03T15:57:55 IST" name="setUp" finished-at="2026-11-03T15:58:00 IST" duration-ms="5245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyUpcomingTasksSectionVisible()[pri:0, instance:DashboardTest@5e82df6a]" started-at="2026-11-03T15:58:00 IST" name="verifyUpcomingTasksSectionVisible" finished-at="2026-11-03T15:58:00 IST" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUpcomingTasksSectionVisible -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:DashboardTest@5e82df6a]" started-at="2026-11-03T15:58:00 IST" name="tearDown" finished-at="2026-11-03T15:58:01 IST" duration-ms="432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:DashboardTest@5e82df6a]" started-at="2026-11-03T15:58:01 IST" name="setUp" finished-at="2026-11-03T15:58:06 IST" duration-ms="5160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyWeeklyGoalsSectionVisible()[pri:0, instance:DashboardTest@5e82df6a]" started-at="2026-11-03T15:58:06 IST" name="verifyWeeklyGoalsSectionVisible" finished-at="2026-11-03T15:58:06 IST" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWeeklyGoalsSectionVisible -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:DashboardTest@5e82df6a]" started-at="2026-11-03T15:58:06 IST" name="tearDown" finished-at="2026-11-03T15:58:06 IST" duration-ms="324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- DashboardTest -->
+      <class name="com.skillsync.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.skillsync.LoginPageTest@1f3f4916]" started-at="2026-11-03T15:55:47 IST" name="setUp" finished-at="2026-11-03T15:55:56 IST" duration-ms="8642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginFields()[pri:0, instance:com.skillsync.LoginPageTest@1f3f4916]" started-at="2026-11-03T15:55:56 IST" name="verifyLoginFields" finished-at="2026-11-03T15:55:57 IST" duration-ms="988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.skillsync.LoginPageTest@1f3f4916]" started-at="2026-11-03T15:55:57 IST" name="tearDown" finished-at="2026-11-03T15:56:02 IST" duration-ms="5126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.skillsync.LoginPageTest@1f3f4916]" started-at="2026-11-03T15:56:02 IST" name="setUp" finished-at="2026-11-03T15:56:04 IST" duration-ms="2144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginPageTitle()[pri:0, instance:com.skillsync.LoginPageTest@1f3f4916]" started-at="2026-11-03T15:56:04 IST" name="verifyLoginPageTitle" finished-at="2026-11-03T15:56:04 IST" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.skillsync.LoginPageTest@1f3f4916]" started-at="2026-11-03T15:56:04 IST" name="tearDown" finished-at="2026-11-03T15:56:06 IST" duration-ms="1349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.skillsync.LoginPageTest@1f3f4916]" started-at="2026-11-03T15:56:06 IST" name="setUp" finished-at="2026-11-03T15:56:08 IST" duration-ms="2198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyShowHidePassword()[pri:0, instance:com.skillsync.LoginPageTest@1f3f4916]" started-at="2026-11-03T15:56:08 IST" name="verifyShowHidePassword" finished-at="2026-11-03T15:56:09 IST" duration-ms="661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyShowHidePassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.skillsync.LoginPageTest@1f3f4916]" started-at="2026-11-03T15:56:09 IST" name="tearDown" finished-at="2026-11-03T15:56:10 IST" duration-ms="1686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.skillsync.LoginPageTest -->
+      <class name="NotesTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:NotesTest@3f197a46]" started-at="2026-11-03T15:58:06 IST" name="setUp" finished-at="2026-11-03T15:58:14 IST" duration-ms="7089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAddNote()[pri:0, instance:NotesTest@3f197a46]" started-at="2026-11-03T15:58:14 IST" name="verifyAddNote" finished-at="2026-11-03T15:58:14 IST" duration-ms="891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddNote -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:NotesTest@3f197a46]" started-at="2026-11-03T15:58:14 IST" name="tearDown" finished-at="2026-11-03T15:58:15 IST" duration-ms="365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:NotesTest@3f197a46]" started-at="2026-11-03T15:58:15 IST" name="setUp" finished-at="2026-11-03T15:58:22 IST" duration-ms="7675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyDeleteNote()[pri:0, instance:NotesTest@3f197a46]" started-at="2026-11-03T15:58:22 IST" name="verifyDeleteNote" finished-at="2026-11-03T15:58:23 IST" duration-ms="674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDeleteNote -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:NotesTest@3f197a46]" started-at="2026-11-03T15:58:23 IST" name="tearDown" finished-at="2026-11-03T15:58:24 IST" duration-ms="431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:NotesTest@3f197a46]" started-at="2026-11-03T15:58:24 IST" name="setUp" finished-at="2026-11-03T15:58:29 IST" duration-ms="5486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyEditNote()[pri:0, instance:NotesTest@3f197a46]" started-at="2026-11-03T15:58:29 IST" name="verifyEditNote" finished-at="2026-11-03T15:58:31 IST" duration-ms="1512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEditNote -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:NotesTest@3f197a46]" started-at="2026-11-03T15:58:31 IST" name="tearDown" finished-at="2026-11-03T15:58:31 IST" duration-ms="363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:NotesTest@3f197a46]" started-at="2026-11-03T15:58:31 IST" name="setUp" finished-at="2026-11-03T15:58:36 IST" duration-ms="5539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyEmptyNoteValidation()[pri:0, instance:NotesTest@3f197a46]" started-at="2026-11-03T15:58:36 IST" name="verifyEmptyNoteValidation" finished-at="2026-11-03T15:58:37 IST" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmptyNoteValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:NotesTest@3f197a46]" started-at="2026-11-03T15:58:37 IST" name="tearDown" finished-at="2026-11-03T15:58:37 IST" duration-ms="343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:NotesTest@3f197a46]" started-at="2026-11-03T15:58:37 IST" name="setUp" finished-at="2026-11-03T15:58:43 IST" duration-ms="5698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyNotesPageLoads()[pri:0, instance:NotesTest@3f197a46]" started-at="2026-11-03T15:58:43 IST" name="verifyNotesPageLoads" finished-at="2026-11-03T15:58:43 IST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNotesPageLoads -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:NotesTest@3f197a46]" started-at="2026-11-03T15:58:43 IST" name="tearDown" finished-at="2026-11-03T15:58:44 IST" duration-ms="754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- NotesTest -->
+      <class name="com.skillsync.SignupPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:24 IST" name="setUp" finished-at="2026-11-03T15:56:26 IST" duration-ms="1927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyConfirmPasswordVisibility()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:26 IST" name="verifyConfirmPasswordVisibility" finished-at="2026-11-03T15:56:26 IST" duration-ms="412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyConfirmPasswordVisibility -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:26 IST" name="tearDown" finished-at="2026-11-03T15:56:27 IST" duration-ms="770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:27 IST" name="setUp" finished-at="2026-11-03T15:56:29 IST" duration-ms="1924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyEmptyConfirmPassword()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:29 IST" name="verifyEmptyConfirmPassword" finished-at="2026-11-03T15:56:30 IST" duration-ms="1074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmptyConfirmPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:30 IST" name="tearDown" finished-at="2026-11-03T15:56:30 IST" duration-ms="364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:30 IST" name="setUp" finished-at="2026-11-03T15:56:32 IST" duration-ms="2218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyEmptyEmail()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:32 IST" name="verifyEmptyEmail" finished-at="2026-11-03T15:56:33 IST" duration-ms="532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmptyEmail -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:33 IST" name="tearDown" finished-at="2026-11-03T15:56:33 IST" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:33 IST" name="setUp" finished-at="2026-11-03T15:56:35 IST" duration-ms="1919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyEmptyName()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:35 IST" name="verifyEmptyName" finished-at="2026-11-03T15:56:35 IST" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmptyName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:35 IST" name="tearDown" finished-at="2026-11-03T15:56:36 IST" duration-ms="449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:36 IST" name="setUp" finished-at="2026-11-03T15:56:38 IST" duration-ms="1946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyEmptyPassword()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:38 IST" name="verifyEmptyPassword" finished-at="2026-11-03T15:56:38 IST" duration-ms="619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmptyPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:38 IST" name="tearDown" finished-at="2026-11-03T15:56:39 IST" duration-ms="301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:39 IST" name="setUp" finished-at="2026-11-03T15:56:40 IST" duration-ms="1792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyInvalidEmail()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:40 IST" name="verifyInvalidEmail" finished-at="2026-11-03T15:56:41 IST" duration-ms="601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidEmail -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:41 IST" name="tearDown" finished-at="2026-11-03T15:56:41 IST" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:41 IST" name="setUp" finished-at="2026-11-03T15:56:43 IST" duration-ms="1919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyPasswordMismatch()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:43 IST" name="verifyPasswordMismatch" finished-at="2026-11-03T15:56:44 IST" duration-ms="1073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPasswordMismatch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:44 IST" name="tearDown" finished-at="2026-11-03T15:56:45 IST" duration-ms="391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:45 IST" name="setUp" finished-at="2026-11-03T15:56:47 IST" duration-ms="2066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyPasswordRequirements()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:47 IST" name="verifyPasswordRequirements" finished-at="2026-11-03T15:56:48 IST" duration-ms="983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPasswordRequirements -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:48 IST" name="tearDown" finished-at="2026-11-03T15:56:48 IST" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:48 IST" name="setUp" finished-at="2026-11-03T15:56:50 IST" duration-ms="1969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyShortName()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:50 IST" name="verifyShortName" finished-at="2026-11-03T15:56:50 IST" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyShortName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:50 IST" name="tearDown" finished-at="2026-11-03T15:56:51 IST" duration-ms="510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:51 IST" name="setUp" finished-at="2026-11-03T15:56:54 IST" duration-ms="3675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyShortPassword()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:54 IST" name="verifyShortPassword" finished-at="2026-11-03T15:56:56 IST" duration-ms="1155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyShortPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:56 IST" name="tearDown" finished-at="2026-11-03T15:56:56 IST" duration-ms="327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:56 IST" name="setUp" finished-at="2026-11-03T15:56:58 IST" duration-ms="1779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyShowHidePassword()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:56:58 IST" name="verifyShowHidePassword" finished-at="2026-11-03T15:57:18 IST" duration-ms="20533" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for element found by By.id: signup-password to have value "text". Current value: "password" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.80, chrome: {chromedriverVersion: 156.0.8078.80 (fb096c0011f9..., userDataDir: C:\Users\Yashika\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63935}, goog:processID: 27496, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63935/devtoo..., se:cdpVersion: 156.0.8078.80, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 068e5372bda78bd1e58769215930d6ce]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element found by By.id: signup-password to have value "text". Current value: "password" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.80, chrome: {chromedriverVersion: 156.0.8078.80 (fb096c0011f9..., userDataDir: C:\Users\Yashika\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63935}, goog:processID: 27496, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63935/devtoo..., se:cdpVersion: 156.0.8078.80, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 068e5372bda78bd1e58769215930d6ce
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+at com.skillsync.SignupPageTest.verifyShowHidePassword(SignupPageTest.java:245)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:155)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:169)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:88)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:137)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyShowHidePassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:57:18 IST" name="tearDown" finished-at="2026-11-03T15:57:19 IST" duration-ms="570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:57:19 IST" name="setUp" finished-at="2026-11-03T15:57:21 IST" duration-ms="1802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySignupFields()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:57:21 IST" name="verifySignupFields" finished-at="2026-11-03T15:57:21 IST" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignupFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:57:21 IST" name="tearDown" finished-at="2026-11-03T15:57:21 IST" duration-ms="359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:57:21 IST" name="setUp" finished-at="2026-11-03T15:57:23 IST" duration-ms="1821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySignupPageLoads()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:57:23 IST" name="verifySignupPageLoads" finished-at="2026-11-03T15:57:23 IST" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignupPageLoads -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:57:23 IST" name="tearDown" finished-at="2026-11-03T15:57:23 IST" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:57:23 IST" name="setUp" finished-at="2026-11-03T15:57:25 IST" duration-ms="1990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyTermsValidation()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:57:25 IST" name="verifyTermsValidation" finished-at="2026-11-03T15:57:27 IST" duration-ms="1241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTermsValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.skillsync.SignupPageTest@7a69b07]" started-at="2026-11-03T15:57:27 IST" name="tearDown" finished-at="2026-11-03T15:57:27 IST" duration-ms="393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.skillsync.SignupPageTest -->
+      <class name="com.skillsync.LoginValidationTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.skillsync.LoginValidationTest@3e2e18f2]" started-at="2026-11-03T15:56:10 IST" name="setUp" finished-at="2026-11-03T15:56:12 IST" duration-ms="1987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyEmptyEmail()[pri:0, instance:com.skillsync.LoginValidationTest@3e2e18f2]" started-at="2026-11-03T15:56:12 IST" name="verifyEmptyEmail" finished-at="2026-11-03T15:56:13 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmptyEmail -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.skillsync.LoginValidationTest@3e2e18f2]" started-at="2026-11-03T15:56:13 IST" name="tearDown" finished-at="2026-11-03T15:56:13 IST" duration-ms="779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.skillsync.LoginValidationTest@3e2e18f2]" started-at="2026-11-03T15:56:13 IST" name="setUp" finished-at="2026-11-03T15:56:15 IST" duration-ms="1903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyEmptyPassword()[pri:0, instance:com.skillsync.LoginValidationTest@3e2e18f2]" started-at="2026-11-03T15:56:15 IST" name="verifyEmptyPassword" finished-at="2026-11-03T15:56:16 IST" duration-ms="593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmptyPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.skillsync.LoginValidationTest@3e2e18f2]" started-at="2026-11-03T15:56:16 IST" name="tearDown" finished-at="2026-11-03T15:56:17 IST" duration-ms="761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.skillsync.LoginValidationTest@3e2e18f2]" started-at="2026-11-03T15:56:17 IST" name="setUp" finished-at="2026-11-03T15:56:18 IST" duration-ms="1769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyIncorrectCredentials()[pri:0, instance:com.skillsync.LoginValidationTest@3e2e18f2]" started-at="2026-11-03T15:56:18 IST" name="verifyIncorrectCredentials" finished-at="2026-11-03T15:56:21 IST" duration-ms="2322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyIncorrectCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.skillsync.LoginValidationTest@3e2e18f2]" started-at="2026-11-03T15:56:21 IST" name="tearDown" finished-at="2026-11-03T15:56:21 IST" duration-ms="404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.skillsync.LoginValidationTest@3e2e18f2]" started-at="2026-11-03T15:56:21 IST" name="setUp" finished-at="2026-11-03T15:56:23 IST" duration-ms="1774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyInvalidEmail()[pri:0, instance:com.skillsync.LoginValidationTest@3e2e18f2]" started-at="2026-11-03T15:56:23 IST" name="verifyInvalidEmail" finished-at="2026-11-03T15:56:23 IST" duration-ms="399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidEmail -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.skillsync.LoginValidationTest@3e2e18f2]" started-at="2026-11-03T15:56:23 IST" name="tearDown" finished-at="2026-11-03T15:56:24 IST" duration-ms="322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.skillsync.LoginValidationTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
